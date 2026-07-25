@@ -1,4 +1,41 @@
-## Hi there 👋
+# Hi, I'm Simrat Singh 👋
+
+## 🚀 About Me
+
+I'm a Software Developer passionate about AI, Web Development, and Machine Learning.
+
+Currently working on:
+- AI Projects
+- Full Stack Websites
+- Open Source
+
+## 🛠 Tech Stack
+
+Python
+Flask
+HTML
+CSS
+JavaScript
+Firebase
+Git
+GitHub
+
+## 📈 GitHub Stats
+
+<!-- GitHub stats card -->
+
+## 🌱 Currently Learning
+
+- React
+- Node.js
+- Machine Learning
+- Cloud Computing
+- Data Science
+
+## 📫 Contact
+
+Email: ssingh.005sb@gmail.com
+LinkedIn: linkedin.com/in/simratsingh13
 
 <!--
 **SimratSingh13/simratsingh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
