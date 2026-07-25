@@ -35,7 +35,7 @@ GitHub
 ## 📫 Contact
 
 Email: ssingh.005sb@gmail.com
-LinkedIn: linkedin.com/in/simratsingh13
+LinkedIn: https://www.linkedin.com/in/simratsingh13/
 
 <!--
 **SimratSingh13/simratsingh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
